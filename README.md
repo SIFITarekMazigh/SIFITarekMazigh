@@ -6,7 +6,7 @@ Hello! My name is Tarek Mazigh SIFI and I am currently a second-year Computer sc
 
 ## Education
 - **University:** University of Science and Technology Houari Boumediene, Algeria
-- **Year:** Second-year Computer science student
+- **Year:** Third-year Cyber Security student
 
 ## Skills
 Here are some languages and technologies I am proficient in:
